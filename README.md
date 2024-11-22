@@ -14,6 +14,6 @@ Además debe estar instalado el binario chrome en la ruta predeterminada.
 <br><br>
 Cuando inicie el sistema, se abrirá un navegador, en el se abrirá la pagina de drogueria del sud. En la cual se colocaran los datos de inicio de sesion.
 <br><br>
-<h2>IMPORTANTE<h2>:
+<h2>IMPORTANTE<h2>
 Cuando los datos sean escritos, se debe resolver el captcha a mano, para que el programa pueda continuar.
 
